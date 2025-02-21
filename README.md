@@ -1,4 +1,4 @@
-for freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
+for freelance work? do reach, [email](mailto:yousufalisafin@gmail.com) :)
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
@@ -28,4 +28,4 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yousuf-safin&show_icons=true&theme=gotham" alt="yousuf-safin" />
