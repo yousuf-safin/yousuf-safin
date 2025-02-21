@@ -1,7 +1,6 @@
 # Hi there, I'm Yousuf! 👋
 
-[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDRlZTIwY2tyczg1c2IwZnJ6cHczbmc4MjFmOHpheXltaG11MHc1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif]
-
+![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDRlZTIwY2tyczg1c2IwZnJ6cHczbmc4MjFmOHpheXltaG11MHc1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
 ## 🚀 About Me
 
 I am a **Web Developer** specializing in **PHP, Laravel, WordPress, and JavaScript**. I have experience in **web design, frontend & backend development**, and I am currently expanding my knowledge in **AWS and cybersecurity**. Passionate about building scalable web applications and constantly learning new technologies.
