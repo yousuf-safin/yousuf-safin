@@ -50,7 +50,9 @@ I am a **Web Developer** specializing in **PHP, Laravel, WordPress, and JavaScri
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+<br>
 
+##
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousuf-safin&show_icons=true&locale=en&layout=compact" alt="yousuf-safin" /></p>
 
 
