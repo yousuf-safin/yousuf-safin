@@ -1,31 +1,36 @@
-for freelance work? do reach, [email](mailto:yousufalisafin@gmail.com) :)
+# Hi there, I'm Yousuf! 👋
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
+![Your GIF Here]([https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzR6dXRjNWE0YzNsNm1mejhqdTBvdmk0ZmkzeGk4Z2o5bWloeXV5YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bJ4TVNYNUympPgcpem/giphy.gif])
 
-```txt
-TypeScript   11 hrs 25 mins  ████████████████████▒░░░░   81.62 %
-HTML         1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
-Python       41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
-JSON         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
-Text         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-```
+## 🚀 About Me
 
-<!--END_SECTION:waka-->
+I am a **Web Developer** specializing in **PHP, Laravel, WordPress, and JavaScript**. I have experience in **web design, frontend & backend development**, and I am currently expanding my knowledge in **AWS and cybersecurity**. Passionate about building scalable web applications and constantly learning new technologies.
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+## 💻 Tech Stack
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+- **Languages:** PHP, JavaScript, HTML, CSS, SQL
+- **Frameworks & Libraries:** Laravel, Vue.js, React.js, TailwindCSS, jQuery
+- **CMS & Platforms:** WordPress, WooCommerce
+- **Databases:** MySQL, SQLite
+- **Cloud & DevOps:** AWS (Learning), GitHub, Git
+- **Other Tools:** Postman, VS Code, Figma, cPanel
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+## 📌 Projects
 
+🚗 [Car Rental Web Application]([https://github.com/yousuf-safin/Car_Rental_Final_Project]) - A Laravel-based car rental system with role-based authentication.  
+🎓 [Examdei](https://examdei.com) - A platform for MCQ-based tests and affiliate programs.  
+🕶️ [Lookove](https://lookove.com) - An e-commerce site for premium sunglasses.  
 
-📈 my github stats
+## 📈 Stats & Contributions
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yousuf-safin&show_icons=true&theme=gotham" alt="yousuf-safin" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yousuf-safin&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousuf-safin&layout=compact&theme=radical)
+
+## 📫 Connect with Me
+
+🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
+📧 [Email](mailto:yousufalisafin@gmail.com)  
+🐦 [Twitter](https://twitter.com/your-handle)  
+
+---
+⭐️ Feel free to explore my repositories and contribute!
