@@ -1,6 +1,6 @@
 # Hi there, I'm Yousuf! 👋
 
-![GIF](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+![GIF]https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc291bXpjYWg5NW9sOTR3dXFydWJybHN6Y3Y3cXRmY2NmYWo2ZzZpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif)
 
 ## 🚀 About Me
 
