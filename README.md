@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I am a **Web Developer** specializing in **PHP, Laravel, WordPress, and JavaScript**. I have experience in **web design, frontend & backend development**, and I am currently expanding my knowledge in **AWS and cybersecurity**. Passionate about building scalable web applications and constantly learning new technologies.
+CSE graduate skilled in Web Development & CMS. Exploring Python, AI & ML with a vision to grow as a Data Scientist.
 
 ## 💻 Tech Stack
 
